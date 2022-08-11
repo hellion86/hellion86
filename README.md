@@ -1,7 +1,19 @@
 ### Hi there 👋
+My name is Viacheslav.
+<br>I'm a Junior Frontend Developer (React/JS).
+<br>Interest: Next.js, Typescript
+<br>
+### Contact me
+📧 Email: [VMezhurevsky@gmail.com](mailto:VMezhurevsky@gmail.com)
+<br>📱 Telegram: [@helli_on86](https://t.me/helli_on86)
 
-<!--
-**hellion86/hellion86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Portfolio
+
+
+### My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellion86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
