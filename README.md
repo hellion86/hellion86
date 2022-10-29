@@ -10,8 +10,8 @@ My name is Viacheslav.
 - 🏫 [Other projects completed during studying](https://github.com/hellion86/)
 
 ### I graduated from the Hexlet school in the Frontend Developer program
-- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/hellion_](https://ru.hexlet.io/u/hellion_)  
-- 📫 My CV(RU): [https://cv.hexlet.io/resumes/493](https://cv.hexlet.io/resumes/493)
+- 🎓 [Visit my Hexlet profile](https://ru.hexlet.io/u/hellion_)  
+- 📫 [My CV(RU)](https://cv.hexlet.io/resumes/493)
 
 ### My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellion86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
