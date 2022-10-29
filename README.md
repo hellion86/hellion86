@@ -7,8 +7,8 @@ My name is Viacheslav.
 ### Portfolio
 - 👨‍💻 My small pet-project - [Lego Store](https://github.com/hellion86/LegoStore)
 - 🥗 Smart-food landing - [Omnifood](https://github.com/hellion86/omnifood_landing)
-- 🏫 Other projects completed during studying:
-- -1(https://github.com/hellion86/)
+- 🏫 Other projects completed during studying: [Brain-Games](https://github.com/hellion86/frontend-project-lvl1), [Diff-comparator](https://github.com/hellion86/frontend-project-lvl2), [RSS-reader](https://github.com/hellion86/frontend-project-lvl3), [React-Chat](https://github.com/hellion86/frontend-project-lvl4)
+
 
 ### I graduated from the Hexlet school in the Frontend Developer program
 - 🎓 [Visit my Hexlet profile](https://ru.hexlet.io/u/hellion_)  
