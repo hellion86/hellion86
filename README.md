@@ -5,6 +5,7 @@ My name is Viacheslav.
 - At the moment I am actively looking for work on the stack (React / JS)
 
 ### Portfolio
+- 🍕 Pizza TS/React/Redux-toolkit small store - [Pizza!](https://github.com/hellion86/PizzaReact)
 - 👨‍💻 My small pet-project - [Lego Store](https://github.com/hellion86/LegoStore)
 - 🥗 Smart-food landing - [Omnifood](https://github.com/hellion86/omnifood_landing)
 - 🏫 Other projects completed during studying: [Brain-Games](https://github.com/hellion86/frontend-project-lvl1), [Diff-comparator](https://github.com/hellion86/frontend-project-lvl2), [RSS-reader](https://github.com/hellion86/frontend-project-lvl3), [React-Chat](https://github.com/hellion86/frontend-project-lvl4)
