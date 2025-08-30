@@ -2,9 +2,7 @@
 
 My name is Viacheslav.
 
-- I'm a Junior Frontend Developer (React/JS).
-- Interest: Next.js, Typescript
-- At the moment I am actively looking for work on the stack (React / JS)
+- I'm a Frontend Developer (Vue2/Vue3).
 
 ### Portfolio
 
